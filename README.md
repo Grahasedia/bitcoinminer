@@ -1,0 +1,2 @@
+# bitcoinminer
+safelink blog
